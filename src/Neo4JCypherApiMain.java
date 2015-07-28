@@ -4,7 +4,7 @@ import org.neo4j.graphdb.GraphDatabaseService;
 import org.neo4j.graphdb.factory.GraphDatabaseFactory;
 
 /**
- * Created by Madalin.Colezea on 7/28/2015.
+ * Neo4J Sample Cypher API
  */
 public class Neo4JCypherApiMain {
     public static void main(String[] args) {

@@ -1,12 +1,9 @@
 import org.neo4j.graphdb.*;
 import org.neo4j.graphdb.factory.GraphDatabaseFactory;
-import org.neo4j.graphdb.schema.IndexCreator;
 import org.neo4j.graphdb.schema.Schema;
-import org.neo4j.kernel.impl.coreapi.schema.IndexCreatorImpl;
-import org.neo4j.kernel.impl.coreapi.schema.InternalSchemaActions;
 
 /**
- * Neo4J Sample
+ * Neo4J Sample native API
  * Before using make sure you have in you classpath neo4j libs
  */
 public class Neo4JNativeApiMain {
